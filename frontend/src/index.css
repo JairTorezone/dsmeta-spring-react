@@ -18,3 +18,16 @@ a:visited{
     color: unset;
     text-decoration: none;
 }
+.dsmeta-container{
+    width: 100%;
+    max-width: 900px;
+    margin: auto;
+}
+.dsmeta-card{
+    background-color: #283142;
+    border-radius: 10px;
+    padding: 30px 10px;
+}
+#sales{
+    padding: 40px 10px;
+}
