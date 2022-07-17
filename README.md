@@ -22,6 +22,7 @@ A aplicação consiste em um app de consulta de vendas, no qual poderá buscar v
 ## Back end
 - Java
 - Spring Boot
+- Spring Security
 - JPA / Hibernate
 - Maven
 - Twilio
@@ -35,8 +36,8 @@ A aplicação consiste em um app de consulta de vendas, no qual poderá buscar v
 ## Implantação em produção
 - Back end: Heroku
 - Front end web: Netlify
-- Banco de dados: Postgresql
-- API: Postman
+- Banco de dados: H2 Database
+- API testar: Postman
 
 # Como executar o projeto
 
